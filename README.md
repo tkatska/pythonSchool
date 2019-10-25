@@ -1,0 +1,2 @@
+# pythonSchool
+some homework exercises
